@@ -1,17 +1,13 @@
 ```
- __   ____  ____  __       
-(  ) (_  _)(_  _)(  )    
-/ (_/\ )(    )(  / (_/\ 
-\____/(__)  (__) \____/ 
-Squeaky Machine
+ ⡇ ⡇⢹⠁⢹⠁⡇ ⣏⡉ ⢎⡑⡎⢱⡇⢸⣏⡉⣎⣱⣇⠜⢇⢸ ⡷⢾⣎⣱⡎⠑⣇⣸⡇⡷⣸⣏⡉
+ ⠧⠤⠇⠸ ⠸ ⠧⠤⠧⠤ ⠢⠜⠣⠪⠣⠜⠧⠤⠇⠸⠇⠱ ⠇ ⠇⠸⠇⠸⠣⠔⠇⠸⠇⠇⠹⠧⠤
 ```
 
-The LttL Squaky Machine is a hardware reference platform for the LttL Weirdo Software Synthesizer. 
+The Little Squeaky Machine is a hardware reference platform for the [Little Weirdo Software Synthesizer](https://github.com/hi-squeaky-things/little-weirdo). 
 
-# LttL Squeaky Machine Hardware
+## Little Squeaky Machine Hardware
 
-
-## Pin layout of the MCU
+### Pin layout of the MCU
 
 | Pin ESP32-S3-WROOM-1 | Pin ESP32S3 | Function ESP32S3 | Function |
 | --- | --- | --- | --- |

@@ -1,16 +1,13 @@
 ```
- __   ____  ____  __       
-(  ) (_  _)(_  _)(  )    
-/ (_/\ )(    )(  / (_/\ 
-\____/(__)  (__) \____/ 
-Squeaky Machine
+ ⡇ ⡇⢹⠁⢹⠁⡇ ⣏⡉ ⢎⡑⡎⢱⡇⢸⣏⡉⣎⣱⣇⠜⢇⢸ ⡷⢾⣎⣱⡎⠑⣇⣸⡇⡷⣸⣏⡉
+ ⠧⠤⠇⠸ ⠸ ⠧⠤⠧⠤ ⠢⠜⠣⠪⠣⠜⠧⠤⠇⠸⠇⠱ ⠇ ⠇⠸⠇⠸⠣⠔⠇⠸⠇⠇⠹⠧⠤
 ```
 
-The LttL Squaky Machine is a hardware reference platform for the LttL Weirdo Software Synthesizer. 
+The Little Squeaky Machine is a hardware reference platform for the [Little Weirdo Software Synthesizer](https://github.com/hi-squeaky-things/little-weirdo). 
 
-# LttL Squeaky Machine Hardware
+## LttL Squeaky Machine Hardware
 
-## Specification and capabilities
+### Specification and capabilities
 
 | Name | Component | Function | 
 | --- | --- | --- |
