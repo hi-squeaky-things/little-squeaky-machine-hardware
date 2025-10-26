@@ -13,5 +13,7 @@ The Little Squeaky Machine is a hardware reference platform for the [Little Weir
 
 ## LttL Squeaky Machine Hardware
 
-- [Specification and capabilities](SPECS.md)
-- [Pin layout of the ESP32S3 based MCU](PINOUT.md)
+![top level pcb](pcb/pcb_top.png "top level pcb")
+
+- [Specification and capabilities](design/specs.md)
+- [Pin layout of the ESP32S3 based MCU](design/pinout.md)
