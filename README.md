@@ -19,6 +19,10 @@ The Little Squeaky Machine is a hardware reference platform for the [Little Weir
 
 ## LttL Squeaky Machine Hardware
 
+### Revision A
+
+![top level pcb](design/revision_a.jpg "photo first prototype")
+
 ![top level pcb](pcb/pcb_top.png "top level pcb")
 
 - [Specification and capabilities](design/specs.md)
