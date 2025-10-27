@@ -17,9 +17,11 @@ The Little Squeaky Machine is a hardware reference platform for the [Little Weir
 > [!IMPORTANT]
 > **Hi Squeaky Things** can happen at any time. _Little Squeaky Machine_ is ready to squeak, squuuueak, squeeeeeaak, squeaaaaaaaaak and drop some deep body shaking basses!
 
-## LttL Squeaky Machine Hardware
+## Little Squeaky Machine Hardware
 
 ### Revision A
+
+This is the first prototype we created and running a firmware using [Little Weirdo Software Synthesizer](https://github.com/hi-squeaky-things/little-weirdo) for sound synthesis. 
 
 ![top level pcb](design/revision_a.jpg "photo first prototype")
 
@@ -34,3 +36,6 @@ This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+## Credits
+
