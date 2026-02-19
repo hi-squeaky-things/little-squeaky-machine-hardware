@@ -19,19 +19,26 @@ The Little Squeaky Machine is a hardware reference platform for the [Little Weir
 
 ## Little Squeaky Machine Hardware
 
+The hardware is designed using EasyEDA. 
 
 ### Revision 2.0 
 
 This is the first production ready hardware running a firmware using [Little Weirdo Software Synthesizer](https://github.com/hi-squeaky-things/little-weirdo) for sound synthesis. 
 
-![top level pcb](design/revision_2_0_3d_case_front.png "revision 2.0 with casing")
+> [!CAUTION]
+Small batch of this revision is being fabricated. Use the schematics and layouts at your own risk because the new design is not tested yet.
+
+![case front](design/revision_2_0_case_front.png "revision 2.0 with casing")
+![case back](design/revision_2_0_case_back.png "revision 2.0 with casing")
 
 
 - [Specification and capabilities](design/specs.md)
 - [Pin layout of the ESP32S3 based MCU](design/pinout.md)
+- [Fabrication files](fabrication)
 
-![top level pcb](design/revision_2_0_pcb_front.png "revision 2.0 with casing")
+![front pcb](design/revision_2_0_pcb_front.png "revision 2.0 pcb")
 
+![back pcb](design/revision_2_0_pcb_back.png "revision 2.0 pcb back")
 
 
 ### Revision 1.0
