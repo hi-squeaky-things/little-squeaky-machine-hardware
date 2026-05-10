@@ -26,7 +26,11 @@ The hardware is designed using EasyEDA.
 This is the first production ready hardware running a firmware using [Little Weirdo Software Synthesizer](https://github.com/hi-squeaky-things/little-weirdo) for sound synthesis. 
 
 > [!CAUTION]
-Small batch of this revision is being fabricated. Use the schematics and layouts at your own risk because the new design is not tested yet.
+Small batch of this revision is fabricated. Use the schematics and layouts at your own risk because the new design is not fully tested yet. We are testing this revision with different types of key switches and caps and color. 
+
+![result assembly](design/revision_2_0_real.jpg "revision 2.0 real life")
+
+Rendered versions:
 
 ![case front](design/revision_2_0_case_front.png "revision 2.0 with casing")
 ![case back](design/revision_2_0_case_back.png "revision 2.0 with casing")
