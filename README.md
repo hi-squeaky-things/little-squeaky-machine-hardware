@@ -6,6 +6,10 @@
 
 The Little Squeaky Machine is a hardware reference platform for the [Little Weirdo Software Synthesizer](https://github.com/hi-squeaky-things/little-weirdo). 
 
+Our first project is launching soon: our LttL Squeaky Machine! Put yourself on the list to get notified when we are ready to ship. 
+
+[Join the waitinglist](https://www.hi-squeaky-things.nl/waiting-list)
+
 
 [cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
