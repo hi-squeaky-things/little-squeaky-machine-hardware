@@ -25,6 +25,11 @@ Our first project is launching soon: our LttL Squeaky Machine! Put yourself on t
 
 The hardware is designed using EasyEDA. 
 
+### Revision 3.0 
+
+We are iteration on revision 3.0. Soon to be released. 
+![](https://www.hi-squeaky-things.nl/web/image/1400-5c54f567/Jouw%20alineatekst%20%281%29.webp)
+
 ### Revision 2.0 
 
 This is the first production ready hardware running a firmware using [Little Weirdo Software Synthesizer](https://github.com/hi-squeaky-things/little-weirdo) for sound synthesis. 
