@@ -61,23 +61,15 @@ Rendered versions:
 
 ![case front](design/revision_2_0_case_front.png "revision 2.0 with casing")
 ![case back](design/revision_2_0_case_back.png "revision 2.0 with casing")
-
-
-- [Specification and capabilities](design/specs.md)
-- [Pin layout of the ESP32S3 based MCU](design/pinout.md)
-- [Fabrication files](fabrication)
-
 ![front pcb](design/revision_2_0_pcb_front.png "revision 2.0 pcb")
-
 ![back pcb](design/revision_2_0_pcb_back.png "revision 2.0 pcb back")
 
 
 ### Revision 1.0
 
 This is the first prototype we created and running a firmware using [Little Weirdo Software Synthesizer](https://github.com/hi-squeaky-things/little-weirdo) for sound synthesis. This revision was only for a proof-of-concept some features and not for production use.
+
 ![top level pcb](design/revision_1_0.jpg "photo first prototype")
-
-
 ![top level pcb](design/revision_1_0_pcb_front.png "photo first prototype")
 
 ## License
