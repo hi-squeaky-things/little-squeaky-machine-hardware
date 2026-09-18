@@ -28,7 +28,25 @@ The hardware is designed using EasyEDA.
 ### Revision 3.0 
 
 We are iteration on revision 3.0. Soon to be released. 
+
 ![](https://www.hi-squeaky-things.nl/web/image/1400-5c54f567/Jouw%20alineatekst%20%281%29.webp)
+
+> [!CAUTION]
+Small batch of this revision is fabricated. Use the schematics and layouts at your own risk because the new design is not fully tested yet. We are testing this revision with different types of key switches and caps and color. 
+
+Rendered versions:
+
+![case front](design/revision_3_0_case_front.png "revision 3.0 with casing")
+![case back](design/revision_3_0_case_back.png "revision 3.0 with casing")
+
+- [Specification and capabilities](design/specs.md)
+- [Pin layout of the ESP32S3 based MCU](design/pinout.md)
+- [Fabrication files](fabrication)
+
+![front pcb](design/revision_3_0_pcb_front.png "revision 2.0 pcb")
+
+![back pcb](design/revision_3_0_pcb_back.png "revision 2.0 pcb back")
+
 
 ### Revision 2.0 
 

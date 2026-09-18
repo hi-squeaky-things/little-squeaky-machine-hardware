@@ -1,0 +1,330 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1066" height="1014" viewBox="0 0 1066 1014" role="img" aria-label="ESP32-S3-WROOM-2 pinout diagram">
+<rect width="1066" height="1014" fill="#ffffff"/>
+<rect x="348.0" y="40.0" width="370.0" height="598.0" rx="6" fill="#373b44" stroke="none" stroke-width="1"/>
+<path d="M 372.0,190.0 L 372.0,58.0 L 422.0,58.0 L 422.0,190.0 L 472.0,190.0 L 472.0,58.0 L 522.0,58.0 L 522.0,190.0 L 572.0,190.0 L 572.0,58.0 L 622.0,58.0 L 622.0,190.0 L 672.0,190.0 L 672.0,190.0" fill="none" stroke="#9aa0ab" stroke-width="13" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 672.0,190.0 L 672.0,204.0" fill="none" stroke="#9aa0ab" stroke-width="9" stroke-linecap="round"/>
+<circle cx="577.4" cy="210.0" r="5" fill="#c9a96a"/>
+<circle cx="593.4" cy="210.0" r="5" fill="#c9a96a"/>
+<rect x="360.0" y="216.0" width="346.0" height="412.0" rx="4" fill="#f4f4f3" stroke="none" stroke-width="1"/>
+<g transform="translate(463.0,400.0)"><path d="M2,14 a12,12 0 0 1 22,0" fill="none" stroke="#222" stroke-width="2.4"/><path d="M6,14 a8,8 0 0 1 14,0" fill="none" stroke="#222" stroke-width="2.4"/><circle cx="13" cy="14" r="2.6" fill="#222"/></g>
+<text x="541.0" y="407.0" font-family="Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#222" text-anchor="middle" dominant-baseline="central">ESPRESSIF</text>
+<text x="533.0" y="436.0" font-family="Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#111" text-anchor="middle" dominant-baseline="central">ESP32-S3-WROOM-2</text>
+<rect x="343.0" y="214.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<rect x="246.0" y="209.5" width="70.0" height="23.0" rx="4" fill="#1a1a1a" stroke="none" stroke-width="1"/>
+<text x="281.0" y="221.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">GND</text>
+<rect x="343.0" y="244.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<rect x="246.0" y="239.5" width="70.0" height="23.0" rx="4" fill="#d9342b" stroke="none" stroke-width="1"/>
+<text x="281.0" y="251.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">3V3</text>
+<rect x="343.0" y="274.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<rect x="246.0" y="269.5" width="70.0" height="23.0" rx="4" fill="#ffffff" stroke="#999" stroke-width="1"/>
+<text x="281.0" y="281.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#222" text-anchor="middle" dominant-baseline="central">EN</text>
+<rect x="343.0" y="304.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="328.0" cy="311.0" r="8" fill="#43a047"/>
+<text x="328.0" y="311.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="246.0" y="299.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="281.0" y="311.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO4</text>
+<rect x="173.0" y="299.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="208.0" y="311.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO4</text>
+<rect x="100.0" y="299.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="135.0" y="311.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC1_CH3</text>
+<rect x="27.0" y="299.5" width="70.0" height="23.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="62.0" y="311.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central">TOUCH4</text>
+<rect x="343.0" y="334.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="328.0" cy="341.0" r="8" fill="#43a047"/>
+<text x="328.0" y="341.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="246.0" y="329.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="281.0" y="341.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO5</text>
+<rect x="173.0" y="329.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="208.0" y="341.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO5</text>
+<rect x="100.0" y="329.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="135.0" y="341.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC1_CH4</text>
+<rect x="27.0" y="329.5" width="70.0" height="23.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="62.0" y="341.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central">TOUCH5</text>
+<rect x="343.0" y="364.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="328.0" cy="371.0" r="8" fill="#43a047"/>
+<text x="328.0" y="371.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="246.0" y="359.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="281.0" y="371.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO6</text>
+<rect x="173.0" y="359.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="208.0" y="371.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO6</text>
+<rect x="100.0" y="359.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="135.0" y="371.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC1_CH5</text>
+<rect x="27.0" y="359.5" width="70.0" height="23.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="62.0" y="371.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central">TOUCH6</text>
+<rect x="343.0" y="394.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="328.0" cy="401.0" r="8" fill="#43a047"/>
+<text x="328.0" y="401.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="246.0" y="389.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="281.0" y="401.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO7</text>
+<rect x="173.0" y="389.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="208.0" y="401.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO7</text>
+<rect x="100.0" y="389.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="135.0" y="401.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC1_CH6</text>
+<rect x="27.0" y="389.5" width="70.0" height="23.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="62.0" y="401.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central">TOUCH7</text>
+<rect x="343.0" y="424.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="328.0" cy="431.0" r="8" fill="#f5a623"/>
+<text x="328.0" y="431.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="246.0" y="419.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="281.0" y="431.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO15</text>
+<rect x="173.0" y="419.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="208.0" y="431.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO15</text>
+<rect x="100.0" y="419.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="135.0" y="431.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC2_CH4</text>
+<rect x="343.0" y="454.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="328.0" cy="461.0" r="8" fill="#f5a623"/>
+<text x="328.0" y="461.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="246.0" y="449.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="281.0" y="461.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO16</text>
+<rect x="173.0" y="449.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="208.0" y="461.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO16</text>
+<rect x="100.0" y="449.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="135.0" y="461.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC2_CH5</text>
+<rect x="343.0" y="484.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="328.0" cy="491.0" r="8" fill="#f5a623"/>
+<text x="328.0" y="491.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="246.0" y="479.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="281.0" y="491.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO17</text>
+<rect x="173.0" y="479.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="208.0" y="491.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO17</text>
+<rect x="100.0" y="479.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="135.0" y="491.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC2_CH6</text>
+<rect x="27.0" y="479.5" width="70.0" height="23.0" rx="4" fill="#67c7ea" stroke="none" stroke-width="1"/>
+<text x="62.0" y="491.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#0b3a4a" text-anchor="middle" dominant-baseline="central">U1TXD</text>
+<rect x="343.0" y="514.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="328.0" cy="521.0" r="8" fill="#f5a623"/>
+<text x="328.0" y="521.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="246.0" y="509.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="281.0" y="521.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO18</text>
+<rect x="173.0" y="509.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="208.0" y="521.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO18</text>
+<rect x="100.0" y="509.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="135.0" y="521.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC2_CH7</text>
+<rect x="27.0" y="509.5" width="70.0" height="23.0" rx="4" fill="#67c7ea" stroke="none" stroke-width="1"/>
+<text x="62.0" y="521.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#0b3a4a" text-anchor="middle" dominant-baseline="central">U1RXD</text>
+<rect x="343.0" y="544.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="328.0" cy="551.0" r="8" fill="#43a047"/>
+<text x="328.0" y="551.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="246.0" y="539.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="281.0" y="551.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO8</text>
+<rect x="173.0" y="539.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="208.0" y="551.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO8</text>
+<rect x="100.0" y="539.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="135.0" y="551.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC1_CH7</text>
+<rect x="27.0" y="539.5" width="70.0" height="23.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="62.0" y="551.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central">TOUCH8</text>
+<rect x="343.0" y="574.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="328.0" cy="581.0" r="8" fill="#d32f2f"/>
+<text x="328.0" y="581.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">–</text>
+<rect x="246.0" y="569.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="281.0" y="581.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO19</text>
+<rect x="173.0" y="569.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="208.0" y="581.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO19</text>
+<rect x="100.0" y="569.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="135.0" y="581.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC2_CH8</text>
+<rect x="27.0" y="569.5" width="70.0" height="23.0" rx="4" fill="#6cc98a" stroke="none" stroke-width="1"/>
+<text x="62.0" y="581.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#0b3a22" text-anchor="middle" dominant-baseline="central">USB_D-</text>
+<rect x="343.0" y="604.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="328.0" cy="611.0" r="8" fill="#d32f2f"/>
+<text x="328.0" y="611.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">–</text>
+<rect x="246.0" y="599.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="281.0" y="611.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO20</text>
+<rect x="173.0" y="599.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="208.0" y="611.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO20</text>
+<rect x="100.0" y="599.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="135.0" y="611.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC2_CH9</text>
+<rect x="27.0" y="599.5" width="70.0" height="23.0" rx="4" fill="#6cc98a" stroke="none" stroke-width="1"/>
+<text x="62.0" y="611.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#0b3a22" text-anchor="middle" dominant-baseline="central">USB_D+</text>
+<rect x="713.0" y="214.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<rect x="750.0" y="209.5" width="70.0" height="23.0" rx="4" fill="#1a1a1a" stroke="none" stroke-width="1"/>
+<text x="785.0" y="221.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">GND</text>
+<rect x="713.0" y="244.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="738.0" cy="251.0" r="8" fill="#43a047"/>
+<text x="738.0" y="251.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="750.0" y="239.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="785.0" y="251.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO1</text>
+<rect x="823.0" y="239.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="858.0" y="251.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO1</text>
+<rect x="896.0" y="239.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="931.0" y="251.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC1_CH0</text>
+<rect x="969.0" y="239.5" width="70.0" height="23.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="1004.0" y="251.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central">TOUCH1</text>
+<rect x="713.0" y="274.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="738.0" cy="281.0" r="8" fill="#43a047"/>
+<text x="738.0" y="281.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="750.0" y="269.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="785.0" y="281.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO2</text>
+<rect x="823.0" y="269.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="858.0" y="281.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO2</text>
+<rect x="896.0" y="269.5" width="70.0" height="23.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="931.0" y="281.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central">ADC1_CH1</text>
+<rect x="969.0" y="269.5" width="70.0" height="23.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="1004.0" y="281.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central">TOUCH2</text>
+<rect x="713.0" y="304.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="738.0" cy="311.0" r="8" fill="#f5a623"/>
+<text x="738.0" y="311.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="750.0" y="299.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="785.0" y="311.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO43</text>
+<rect x="969.0" y="299.5" width="70.0" height="23.0" rx="4" fill="#67c7ea" stroke="none" stroke-width="1"/>
+<text x="1004.0" y="311.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#0b3a4a" text-anchor="middle" dominant-baseline="central">U0TXD</text>
+<rect x="713.0" y="334.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="738.0" cy="341.0" r="8" fill="#f5a623"/>
+<text x="738.0" y="341.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="750.0" y="329.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="785.0" y="341.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO44</text>
+<rect x="969.0" y="329.5" width="70.0" height="23.0" rx="4" fill="#67c7ea" stroke="none" stroke-width="1"/>
+<text x="1004.0" y="341.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#0b3a4a" text-anchor="middle" dominant-baseline="central">U0RXD</text>
+<rect x="713.0" y="364.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="738.0" cy="371.0" r="8" fill="#f5a623"/>
+<text x="738.0" y="371.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="750.0" y="359.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="785.0" y="371.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO42</text>
+<rect x="969.0" y="359.5" width="70.0" height="23.0" rx="4" fill="#f2a83c" stroke="none" stroke-width="1"/>
+<text x="1004.0" y="371.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a3500" text-anchor="middle" dominant-baseline="central">MTMS</text>
+<rect x="713.0" y="394.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="738.0" cy="401.0" r="8" fill="#f5a623"/>
+<text x="738.0" y="401.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="750.0" y="389.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="785.0" y="401.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO41</text>
+<rect x="969.0" y="389.5" width="70.0" height="23.0" rx="4" fill="#f2a83c" stroke="none" stroke-width="1"/>
+<text x="1004.0" y="401.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a3500" text-anchor="middle" dominant-baseline="central">MTDI</text>
+<rect x="713.0" y="424.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="738.0" cy="431.0" r="8" fill="#f5a623"/>
+<text x="738.0" y="431.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="750.0" y="419.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="785.0" y="431.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO40</text>
+<rect x="969.0" y="419.5" width="70.0" height="23.0" rx="4" fill="#f2a83c" stroke="none" stroke-width="1"/>
+<text x="1004.0" y="431.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a3500" text-anchor="middle" dominant-baseline="central">MTDO</text>
+<rect x="713.0" y="454.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="738.0" cy="461.0" r="8" fill="#f5a623"/>
+<text x="738.0" y="461.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="750.0" y="449.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="785.0" y="461.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO39</text>
+<rect x="969.0" y="449.5" width="70.0" height="23.0" rx="4" fill="#f2a83c" stroke="none" stroke-width="1"/>
+<text x="1004.0" y="461.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a3500" text-anchor="middle" dominant-baseline="central">MTCK</text>
+<rect x="713.0" y="484.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="738.0" cy="491.0" r="8" fill="#43a047"/>
+<text x="738.0" y="491.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="750.0" y="479.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="785.0" y="491.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO38</text>
+<rect x="713.0" y="514.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<rect x="750.0" y="509.5" width="70.0" height="23.0" rx="4" fill="#dcdcdc" stroke="none" stroke-width="1"/>
+<text x="785.0" y="521.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#555" text-anchor="middle" dominant-baseline="central">NC</text>
+<rect x="713.0" y="544.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<rect x="750.0" y="539.5" width="70.0" height="23.0" rx="4" fill="#dcdcdc" stroke="none" stroke-width="1"/>
+<text x="785.0" y="551.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#555" text-anchor="middle" dominant-baseline="central">NC</text>
+<rect x="713.0" y="574.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<rect x="750.0" y="569.5" width="70.0" height="23.0" rx="4" fill="#dcdcdc" stroke="none" stroke-width="1"/>
+<text x="785.0" y="581.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#555" text-anchor="middle" dominant-baseline="central">NC</text>
+<rect x="713.0" y="604.0" width="10" height="14" rx="1.5" fill="#c9a96a"/>
+<circle cx="738.0" cy="611.0" r="8" fill="#f5a623"/>
+<text x="738.0" y="611.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="750.0" y="599.5" width="70.0" height="23.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="785.0" y="611.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central">GPIO0</text>
+<rect x="823.0" y="599.5" width="70.0" height="23.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="858.0" y="611.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central">RTC_GPIO0</text>
+<rect x="356.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="363.0" cy="652.0" r="8" fill="#f5a623"/>
+<text x="363.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="351.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="363.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 363.0 695.0)">GPIO3</text>
+<rect x="351.5" y="733.0" width="23.0" height="70.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="363.0" y="768.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 363.0 768.0)">RTC_GPIO3</text>
+<rect x="351.5" y="806.0" width="23.0" height="70.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="363.0" y="841.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 363.0 841.0)">ADC1_CH2</text>
+<rect x="351.5" y="879.0" width="23.0" height="70.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="363.0" y="914.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 363.0 914.0)">TOUCH3</text>
+<rect x="386.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="393.0" cy="652.0" r="8" fill="#f5a623"/>
+<text x="393.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="381.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="393.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 393.0 695.0)">GPIO46</text>
+<rect x="416.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="423.0" cy="652.0" r="8" fill="#43a047"/>
+<text x="423.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="411.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="423.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 423.0 695.0)">GPIO9</text>
+<rect x="411.5" y="733.0" width="23.0" height="70.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="423.0" y="768.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 423.0 768.0)">RTC_GPIO9</text>
+<rect x="411.5" y="806.0" width="23.0" height="70.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="423.0" y="841.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 423.0 841.0)">ADC1_CH8</text>
+<rect x="411.5" y="879.0" width="23.0" height="70.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="423.0" y="914.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 423.0 914.0)">TOUCH9</text>
+<rect x="446.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="453.0" cy="652.0" r="8" fill="#43a047"/>
+<text x="453.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="441.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="453.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 453.0 695.0)">GPIO10</text>
+<rect x="441.5" y="733.0" width="23.0" height="70.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="453.0" y="768.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 453.0 768.0)">RTC_GPIO10</text>
+<rect x="441.5" y="806.0" width="23.0" height="70.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="453.0" y="841.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 453.0 841.0)">ADC1_CH9</text>
+<rect x="441.5" y="879.0" width="23.0" height="70.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="453.0" y="914.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 453.0 914.0)">TOUCH10</text>
+<rect x="476.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="483.0" cy="652.0" r="8" fill="#f5a623"/>
+<text x="483.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="471.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="483.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 483.0 695.0)">GPIO11</text>
+<rect x="471.5" y="733.0" width="23.0" height="70.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="483.0" y="768.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 483.0 768.0)">RTC_GPIO11</text>
+<rect x="471.5" y="806.0" width="23.0" height="70.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="483.0" y="841.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 483.0 841.0)">ADC2_CH0</text>
+<rect x="471.5" y="879.0" width="23.0" height="70.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="483.0" y="914.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 483.0 914.0)">TOUCH11</text>
+<rect x="506.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="513.0" cy="652.0" r="8" fill="#f5a623"/>
+<text x="513.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="501.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="513.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 513.0 695.0)">GPIO12</text>
+<rect x="501.5" y="733.0" width="23.0" height="70.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="513.0" y="768.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 513.0 768.0)">RTC_GPIO12</text>
+<rect x="501.5" y="806.0" width="23.0" height="70.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="513.0" y="841.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 513.0 841.0)">ADC2_CH1</text>
+<rect x="501.5" y="879.0" width="23.0" height="70.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="513.0" y="914.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 513.0 914.0)">TOUCH12</text>
+<rect x="536.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="543.0" cy="652.0" r="8" fill="#f5a623"/>
+<text x="543.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="531.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="543.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 543.0 695.0)">GPIO13</text>
+<rect x="531.5" y="733.0" width="23.0" height="70.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="543.0" y="768.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 543.0 768.0)">RTC_GPIO13</text>
+<rect x="531.5" y="806.0" width="23.0" height="70.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="543.0" y="841.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 543.0 841.0)">ADC2_CH2</text>
+<rect x="531.5" y="879.0" width="23.0" height="70.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="543.0" y="914.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 543.0 914.0)">TOUCH13</text>
+<rect x="566.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="573.0" cy="652.0" r="8" fill="#f5a623"/>
+<text x="573.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="561.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="573.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 573.0 695.0)">GPIO14</text>
+<rect x="561.5" y="733.0" width="23.0" height="70.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="573.0" y="768.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 573.0 768.0)">RTC_GPIO14</text>
+<rect x="561.5" y="806.0" width="23.0" height="70.0" rx="4" fill="#b9c7e2" stroke="none" stroke-width="1"/>
+<text x="573.0" y="841.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#22304a" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 573.0 841.0)">ADC2_CH3</text>
+<rect x="561.5" y="879.0" width="23.0" height="70.0" rx="4" fill="#f3a9d0" stroke="none" stroke-width="1"/>
+<text x="573.0" y="914.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#5a2240" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 573.0 914.0)">TOUCH14</text>
+<rect x="596.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="603.0" cy="652.0" r="8" fill="#43a047"/>
+<text x="603.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="591.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="603.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 603.0 695.0)">GPIO21</text>
+<rect x="591.5" y="733.0" width="23.0" height="70.0" rx="4" fill="#e6d34b" stroke="none" stroke-width="1"/>
+<text x="603.0" y="768.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 603.0 768.0)">RTC_GPIO21</text>
+<rect x="626.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="633.0" cy="652.0" r="8" fill="#43a047"/>
+<text x="633.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="621.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="633.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 633.0 695.0)">GPIO47</text>
+<rect x="656.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="663.0" cy="652.0" r="8" fill="#43a047"/>
+<text x="663.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">✓</text>
+<rect x="651.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="663.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 663.0 695.0)">GPIO48</text>
+<rect x="686.0" y="633.0" width="14" height="10" rx="1.5" fill="#c9a96a"/>
+<circle cx="693.0" cy="652.0" r="8" fill="#f5a623"/>
+<text x="693.0" y="652.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+<rect x="681.5" y="660.0" width="23.0" height="70.0" rx="4" fill="#e9e9e9" stroke="none" stroke-width="1"/>
+<text x="693.0" y="695.0" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1b1b1b" text-anchor="middle" dominant-baseline="central" transform="rotate(-90 693.0 695.0)">GPIO45</text>
+</svg>
